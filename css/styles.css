@@ -341,6 +341,9 @@ i.fa { margin-right:3px; color:#2b2b2b }
 .icons.fridge { background:url(../images/icons/fridge.png) center no-repeat; background-size:36px 36px; }
 .icons.sillita { background:url(../images/icons/sillita.png) center no-repeat; background-size:36px 36px; }
 .icons.mesa { background:url(../images/icons/mesa.png) center no-repeat; background-size:36px 36px; }
+.icons.ES { background:url(../images/icons/b-es.png) center no-repeat; background-size:36px 36px; }
+.icons.EN { background:url(../images/icons/b-en.png) center no-repeat; background-size:36px 36px; }
+.icons.DE { background:url(../images/icons/b.de.png) center no-repeat; background-size:36px 36px; }
 
 
 .icons.map-pin-1 { background:url(../images/icons/map-pin-1.png) center no-repeat; background-size:36px 36px; }
