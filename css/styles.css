@@ -118,6 +118,14 @@ blockquote .small::before, blockquote footer::before, blockquote small::before {
 #b-es a { background:url(../images/icons/B-ES.png) right no-repeat; background-size:100px 52px; width:100px; /*try to keep it below 52px*/ height:52px; text-indent:-9999px; display: table-cell; vertical-align: middle; }
 .tagline { float:left; font-size:13px; font-weight:400; padding:0 0 0 20px; margin:0px auto; position:relative; display:table; height:52px; margin-top:-1px; }
 .tagline span { display: table-cell; vertical-align: middle; }
+#b-en { display:block; display:table; height:52px; position:relative; margin:0; float:left }
+#b-en a { background:url(../images/icons/B-EN.png) right no-repeat; background-size:100px 52px; width:100px; /*try to keep it below 52px*/ height:52px; text-indent:-9999px; display: table-cell; vertical-align: middle; }
+.tagline { float:left; font-size:13px; font-weight:400; padding:0 0 0 20px; margin:0px auto; position:relative; display:table; height:52px; margin-top:-1px; }
+.tagline span { display: table-cell; vertical-align: middle; }
+#b-de { display:block; display:table; height:52px; position:relative; margin:0; float:left }
+#b-de a { background:url(../images/icons/B-DE.png) right no-repeat; background-size:100px 52px; width:100px; /*try to keep it below 52px*/ height:52px; text-indent:-9999px; display: table-cell; vertical-align: middle; }
+.tagline { float:left; font-size:13px; font-weight:400; padding:0 0 0 20px; margin:0px auto; position:relative; display:table; height:52px; margin-top:-1px; }
+.tagline span { display: table-cell; vertical-align: middle; }
 
 
 
@@ -240,6 +248,8 @@ header { position:relative; z-index: 1099; width:100%; background:#fff; padding:
 .tripadvisor { background:url(../images/tripadvisor.png) no-repeat center; height:67.2px; width:100px; background-size:100px 67.2px; display:inline-block; }
 .logo-wrapper { margin-top:15px; margin-bottom:20px; }
 .b-es-wrapper { margin-top:15px; margin-bottom:20px; }
+.b-en-wrapper { margin-top:15px; margin-bottom:20px; }
+.b-de-wrapper { margin-top:15px; margin-bottom:20px; }
 
 .contact-wrapper { margin-bottom:15px; position:relative; margin-top:-10px; }
 /* =End Main Content
