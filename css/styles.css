@@ -119,11 +119,11 @@ blockquote .small::before, blockquote footer::before, blockquote small::before {
 .tagline { float:left; font-size:13px; font-weight:400; padding:0 0 0 20px; margin:0px auto; position:relative; display:table; height:52px; margin-top:-1px; }
 .tagline span { display: table-cell; vertical-align: middle; }
 #b-en { display:block; display:table; height:52px; position:relative; margin:0; float:left }
-#b-en a { background:url(../images/icons/B-EN.png) right no-repeat; background-size:100px 52px; width:100px; /*try to keep it below 52px*/ height:52px; text-indent:-9999px; display: table-cell; vertical-align: middle; }
+#b-en a { background:url(../images/icons/B-EN.png) right no-repeat; background-size:30px 15px; width:30px; /*try to keep it below 52px*/ height:52px; text-indent:-9999px; display: table-cell; vertical-align: middle; }
 .tagline { float:left; font-size:13px; font-weight:400; padding:0 0 0 20px; margin:0px auto; position:relative; display:table; height:52px; margin-top:-1px; }
 .tagline span { display: table-cell; vertical-align: middle; }
 #b-de { display:block; display:table; height:52px; position:relative; margin:0; float:left }
-#b-de a { background:url(../images/icons/B-DE.png) right no-repeat; background-size:100px 52px; width:100px; /*try to keep it below 52px*/ height:52px; text-indent:-9999px; display: table-cell; vertical-align: middle; }
+#b-de a { background:url(../images/icons/B-DE.png) right no-repeat; background-size:50px 26px; width:50px; /*try to keep it below 52px*/ height:52px; text-indent:-9999px; display: table-cell; vertical-align: middle; }
 .tagline { float:left; font-size:13px; font-weight:400; padding:0 0 0 20px; margin:0px auto; position:relative; display:table; height:52px; margin-top:-1px; }
 .tagline span { display: table-cell; vertical-align: middle; }
 
