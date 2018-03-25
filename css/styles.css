@@ -239,6 +239,8 @@ header { position:relative; z-index: 1099; width:100%; background:#fff; padding:
 #section2 .header-wrapper { margin-top:60px; }
 .tripadvisor { background:url(../images/tripadvisor.png) no-repeat center; height:67.2px; width:100px; background-size:100px 67.2px; display:inline-block; }
 .logo-wrapper { margin-top:15px; margin-bottom:20px; }
+.b-es-wrapper { margin-top:15px; margin-bottom:20px; }
+
 .contact-wrapper { margin-bottom:15px; position:relative; margin-top:-10px; }
 /* =End Main Content
 --------------------------------------------------------------------------------------------------------*/
